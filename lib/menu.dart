@@ -24,25 +24,25 @@ class MyHomePage extends StatelessWidget {
   // used by the build method of the State. Fields in a Widget subclass are
   // always marked "final".
 
-//   final String title;
-//
-//   @override
-//   State<MyHomePage> createState() => _MyHomePageState();
-// }
-//
-// class _MyHomePageState extends State<MyHomePage> {
-//   int _counter = 0;
-//
-//   void _incrementCounter() {
-//     setState(() {
-//       // This call to setState tells the Flutter framework that something has
-//       // changed in this State, which causes it to rerun the build method below
-//       // so that the display can reflect the updated values. If we changed
-//       // _counter without calling setState(), then the build method would not be
-//       // called again, and so nothing would appear to happen.
-//       _counter++;
-//     });
-//   }
+  //   final String title;
+  //
+  //   @override
+  //   State<MyHomePage> createState() => _MyHomePageState();
+  // }
+  //
+  // class _MyHomePageState extends State<MyHomePage> {
+  //   int _counter = 0;
+  //
+  //   void _incrementCounter() {
+  //     setState(() {
+  //       // This call to setState tells the Flutter framework that something has
+  //       // changed in this State, which causes it to rerun the build method below
+  //       // so that the display can reflect the updated values. If we changed
+  //       // _counter without calling setState(), then the build method would not be
+  //       // called again, and so nothing would appear to happen.
+  //       _counter++;
+  //     });
+  //   }
 
   @override
   Widget build(BuildContext context) {
@@ -52,6 +52,7 @@ class MyHomePage extends StatelessWidget {
     // The Flutter framework has been optimized to make rerunning build methods
     // fast, so that you can just rebuild anything that needs updating rather
     // than having to individually change instances of widgets.
+    //
     // return Scaffold(
     //   appBar: AppBar(
     //     // TRY THIS: Try changing the color here to a specific color (to
