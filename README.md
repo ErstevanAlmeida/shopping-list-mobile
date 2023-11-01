@@ -1,4 +1,10 @@
-# shopping_list
+# Tutorial PBP Ganjil 2023/2024
+
+Nama    : Erstevan Laurel Lucky Almeida
+NPM     : 2206082493
+Kelas   : PBP - E
+
+# Shopping List
 
 A new Flutter project.
 
