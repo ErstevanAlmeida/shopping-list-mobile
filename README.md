@@ -1,8 +1,13 @@
+[![Build status](https://build.appcenter.ms/v0.1/apps/3623bb62-5b44-4852-9d54-c94a5e882483/branches/main/badge)](https://appcenter.ms)
+
 # Tutorial PBP Ganjil 2023/2024
 
 - Nama    : Erstevan Laurel Lucky Almeida
 - NPM     : 2206082493
 - Kelas   : PBP - E
+
+# Public Link
+https://install.appcenter.ms/orgs/pbp2223-ea/apps/shopping-list/distribution_groups/public
 
 # Shopping List
 
